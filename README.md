@@ -12,3 +12,4 @@ UX_1 Built prototype for a project which was built as a senior citizen e-health 
 
 UX_2 Built protoype for an idea hub based for business owners. The design was intended with flaws for a QA team to look at after and perform their analysis.
 
+Android1 Data analysis android project. Measures local air pollution and provides other services.
