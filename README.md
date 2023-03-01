@@ -10,6 +10,6 @@ Firehoot. Personal business website, Used some ready made tools but some aspects
 
 UX_1 Built prototype for a project which was built as a senior citizen e-health app serving recommendations and stats for users to learn from.
 
-UX_2 Built protoype for an idea hub based for business owners. The design was intended with flaws for a QA team to look at after and perform their analysis.
+UX_2 Built protoype for an idea hub for business owners. Some aspects of the design was intended with flaws for a QA team to look at after and perform their analysis.
 
 Cityfy Data analysis android project. Measures local air pollution and provides other services, Project that incentivizesa smart city upbringing and awareness 
