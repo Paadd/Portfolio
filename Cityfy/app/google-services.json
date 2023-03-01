@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "61445026888",
+    "firebase_url": "https://cityfy-53f41.firebaseio.com",
+    "project_id": "cityfy-53f41",
+    "storage_bucket": "cityfy-53f41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61445026888:android:9913f654ca0f949029547d",
+        "android_client_info": {
+          "package_name": "com.msa.cityfy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61445026888-63a02ili34u045ptikgop497j2f3e9jp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.msa.cityfy",
+            "certificate_hash": "fcb75e80de26df1155d325aa58e151f2fa09d45b"
+          }
+        },
+        {
+          "client_id": "61445026888-vi5ngidtaqtfdoe9po24cucq2v26q6bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4tUTw58im8kXIqPQAljWHANUNDr0RHDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61445026888-vi5ngidtaqtfdoe9po24cucq2v26q6bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

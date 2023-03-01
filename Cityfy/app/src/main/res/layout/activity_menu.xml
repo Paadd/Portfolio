@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.MenuActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="1676dp"
+        android:layout_height="1219dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/norm" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="307dp"
+        android:layout_height="186dp"
+        android:layout_marginTop="50dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/cityfy" />
+
+    <LinearLayout
+        android:layout_width="308dp"
+        android:layout_height="465dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView6">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/newsButton"
+                style="@style/Widget.MaterialComponents.Button.TextButton.Icon"
+
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:text="news"
+                android:textColor="@color/colorAccent"
+                app:icon="@drawable/news"
+                app:iconSize="50dp"
+                app:iconTint="@android:color/transparent"
+                app:iconTintMode="add" />
+
+            <Button
+                android:id="@+id/helpButton"
+                style="@style/Widget.MaterialComponents.Button.TextButton.Icon"
+
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:text="@string/help_text"
+                android:textColor="@color/colorAccent"
+                app:icon="@drawable/about"
+                app:iconSize="50dp"
+                app:iconTint="@android:color/transparent"
+                app:iconTintMode="add" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="55dp"
+            android:orientation="horizontal">
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/pollutionButton"
+                style="@style/Widget.MaterialComponents.Button.TextButton.Icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="15dp"
+                android:paddingRight="40dp"
+                android:text="@string/co2_text"
+                android:textColor="@color/colorAccent"
+                app:icon="@drawable/pollution"
+                app:iconGravity="textStart"
+                app:iconSize="50dp"
+                app:iconTint="@android:color/transparent"
+                app:iconTintMode="add" />
+
+            <Button
+                android:id="@+id/pointsButton"
+                style="@style/Widget.MaterialComponents.Button.TextButton.Icon"
+
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:text="@string/points_text"
+                android:textColor="@color/colorAccent"
+                app:icon="@drawable/heart"
+                app:iconSize="50dp"
+                app:iconTint="@android:color/transparent"
+                app:iconTintMode="add" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="55dp"
+            android:orientation="horizontal" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

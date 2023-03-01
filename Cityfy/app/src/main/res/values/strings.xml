@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cityfy</string>
+    <string name="textfield_username">Username</string>
+    <string name="textfield_password">Password</string>
+    <string name="textfield_confirm_password">Confirm Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="help_text">help</string>
+    <string name="energy_text">energy</string>
+    <string name="points_text">points</string>
+    <string name="co2_text">CO2%</string>
+    <string name="email_edit_text">Email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
