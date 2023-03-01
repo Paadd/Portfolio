@@ -6,7 +6,7 @@ Analysis_1 JAVA is a project in which it was required to analyze radar detection
 
 Analysis_2 PY is a project in which it was required to perform data anaylsis using python. By utilizing data manipulation techinques and machine learning, the anaylsis was successful and a full lifecycle was introduced in the report along with the business outcome.
 
-Firehoot. Personal business website, Used some ready made tools but some aspects I edited using script tech such as php/css/html and others as needed. Theme configuration and tailored the designs as I wanted which is react based.
+Firehoot. Personal business website, Used some ready made tools but some aspects I edited using script tech such as php/css/html and others as needed. Theme configuration and created the designs as I wanted which was react based.
 
 UX_1 Built prototype for a project which was built as a senior citizen e-health app serving recommendations and stats for users to learn from.
 
