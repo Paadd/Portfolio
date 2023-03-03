@@ -8,7 +8,7 @@ Analysis_2 PY is a project in which it was required to perform data anaylsis usi
 
 Firehoot. Personal business website, Used some ready made tools but some aspects I edited using script tech such as php/css/html and others as needed. Theme designs and configurations which are react based, I edited and customized for myself. www.firehoot.com
 
-ML_Cancer was a collaborative project which our team pulled a dataset and performed Machine Learning techniques for cancer diagnostics.
+ML_Cancer is a project which our team pulled a dataset and performed Machine Learning techniques for cancer diagnostics.
 
 UX_1 Built prototype for a project which was built as a senior citizen e-health app serving recommendations and stats for users to learn from.
 
